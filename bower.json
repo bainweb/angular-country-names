@@ -1,0 +1,27 @@
+{
+  "name": "angular-country-names",
+  "description": "Angular module which registers an array of country names as an angular constant.",
+  "main": "angular-country-names.js",
+  "authors": [
+    "bainweb <bain@bainweb.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "country",
+    "list",
+    "constant"
+  ],
+  "homepage": "https://github.com/bainweb/angular-country-names",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bainweb/angular-country-names.git"
+  }
+}
